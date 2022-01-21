@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Update 1
+Unlimited Power
 Use the left arrow to go back!
